@@ -121,14 +121,14 @@ python plot_history.py --input1 gaussian --input2 clean
 <img src="result/val_loss_gaussian.png" width="480px">
 
 
-<img src="result/val_PSNR_gaussian.png" width="480px">
+<img src="result/val_psnr_gaussian.png" width="480px">
 
 
 ##### Text insertion
 <img src="result/val_loss_text.png" width="480px">
 
 
-<img src="result/val_PSNR_text.png" width="480px">
+<img src="result/val_psnr_text.png" width="480px">
 
 #### Random-valued impulse noise
 <img src="result/val_loss_impulse.png" width="480px">
